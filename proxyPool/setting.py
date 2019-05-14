@@ -24,7 +24,7 @@ TESTER_CYCLE = 300
 # 获取周期
 GETTER_CYCLE = 600
 
-# 测试API，建议抓哪个网站测哪个
+# 测试API
 TEST_URL = 'http://www.baidu.com'
 
 # API配置
